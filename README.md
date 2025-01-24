@@ -77,14 +77,13 @@ Este projeto tem como objetivo analisar as vendas de um conjunto de dados e cate
 ## Estrutura do Projeto
 
 ```bash
-    analise-vendas-por-categoria/
+    sales-analysis_category/
     │
-    ├── analise_vendas.py            # Script principal
-    ├── exemplos/
-    │   └── exemplo_vendas.csv       # Exemplo de arquivo de dados
-    ├── README.md                    # Documentação do projeto
-    └── requirements.txt             # Dependências do projeto
+    ├── sales-analysis_category.py   # Script principal
+    ├── LICENSE                      # Licença MIT5
+    └── README.md                    # Documentação do projeto
 ```
+
 ## Expansões Futuras
 
 1. Análise temporal das vendas por categoria (ex.: vendas por mês).
